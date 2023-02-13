@@ -1,0 +1,15 @@
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.csproj.AssemblyReference.cache
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.AssemblyInfoInputs.cache
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.AssemblyInfo.cs
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.csproj.CoreCompileInputs.cache
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\bin\Debug\net6.0\examples006_base.exe
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\bin\Debug\net6.0\examples006_base.deps.json
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\bin\Debug\net6.0\examples006_base.runtimeconfig.json
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\bin\Debug\net6.0\examples006_base.dll
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\bin\Debug\net6.0\examples006_base.pdb
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.dll
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\refint\examples006_base.dll
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.pdb
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\examples006_base.genruntimeconfig.cache
+C:\Users\Bonjour\Desktop\gitt\examples001_helloconsole\examples006_base\obj\Debug\net6.0\ref\examples006_base.dll
